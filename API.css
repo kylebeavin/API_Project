@@ -1,0 +1,140 @@
+.container {
+    border-radius: 100px 100px 5px 5px;
+    background-color: rgb(90, 90, 90);
+    height: 589px;
+    width: 495px;
+    margin: auto;
+    padding: 5px;
+    position: relative;
+}
+.titleborder {
+    border-radius: inherit;
+    background-color: rgb(39, 39, 39);
+    height: 110px;
+    
+    position: relative;
+    padding: 5px;   
+}
+.titlesign {
+    background-image: url("slotbackgroundfruit.jpg");
+    background-color: black;
+    border-radius: inherit;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    /* opacity: .65; */
+}
+.titlesigntext {
+    color: yellow;
+    /* color: rgb(252, 206, 2); */
+
+    text-align: center;
+    font-size: 100px;
+    position: relative;
+}
+.titlesignborder1 {
+    border: solid 1px orange;
+    border-radius: inherit;
+    height: 100px;
+    width: 475px;
+    position: relative;
+    top: .25em;
+    left: .25em;
+}
+.titlesignborder2 {
+    border: solid 1px orange;
+    border-radius: inherit;
+    height: 95px;
+    width: 470px;
+    position: relative;
+    top: .1em;
+    left: .1em;
+
+}
+.rollerborder {
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(39, 39, 39);
+    height: 200px;
+    padding: 5px;   
+    position: relative;
+    top: 5px;
+}
+.fronttrim {
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(39, 39, 39);
+    height: 50px;
+    padding: 5px;   
+    position: relative;
+    top: 10px;
+}
+.fronttrimdec {
+    border-radius: 5px 5px 5px 5px;
+    background-image: url("fronttrimdec.jpg");
+    background-size: 3em;
+    height: 50px;  
+    position: relative;
+    background-position-y: 1.35px;
+    /* opacity: .75;    */
+}
+.bottomborder {
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(39, 39, 39);
+    height: 184px;   
+    position: relative;
+    top: 15px;
+}
+.bottomsign {
+    border-radius: 4px 4px 4px 4px;
+    background-image: url("slotbackgroundfruit.jpg");
+    height: 175px;
+    width: 485px;  
+    position: relative;
+    top: 5px;
+    left: 5px;
+    /* opacity: .65; */
+}
+.outsideroller1 {
+    background-image: url("outsiderollers.jpg");
+    height: 200px;
+    width: 70px;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+    background-size: contain;
+    float: left;
+}
+.roller1 {
+    background-color: whitesmoke;
+    height: 200px;
+    width: 100px;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+    float: left;;
+    left: 11px;
+}
+.roller2 {
+    background-color: whitesmoke;
+    height: 200px;
+    width: 100px;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+    float: left;
+    left: 22px;
+}
+.roller3 {
+    background-color: whitesmoke;
+    height: 200px;
+    width: 100px;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+    float: left;
+    left: 33px;
+}
+.outsideroller2 {
+    background-image: url("outsiderollers.jpg");
+    height: 200px;
+    width: 70px;
+    border-radius: 4px 4px 4px 4px;
+    position: relative;
+    background-size: contain;
+    float: right;
+}
