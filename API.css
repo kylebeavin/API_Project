@@ -138,3 +138,10 @@
     background-size: contain;
     float: right;
 }
+#click {
+    background-color: rgba(128, 0, 0, 0.507);
+    color: silver;
+    border: rgba(128, 0, 0, 0.507) 4px solid;
+    border-radius: 50%;
+    height: 50px;
+}
