@@ -1,4 +1,4 @@
-// var starWarsPeopleList = document.querySelector('ul');
+// var starWarsPeopleList = document.querySelector('ul');///comment
 var starWarsPeopleList = document.getElementById("starwarsroller");
 var pokemonlist = document.getElementById("pokemonroller");
 var unsplashlist = document.getElementById("unsplashroller");
